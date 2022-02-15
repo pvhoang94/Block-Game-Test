@@ -7,10 +7,6 @@ public class GUIManager : MonoBehaviour
 {
 	public static GUIManager instance;
 
-	public GameObject gameOverPanel;
-	public Text yourScoreTxt;
-	public Text highScoreTxt;
-
 	public Text scoreTxt;
 
 	private int score;
